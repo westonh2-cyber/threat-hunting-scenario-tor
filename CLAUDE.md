@@ -7,15 +7,16 @@ Two markdown files, the report and the scenario/event-creation companion.
 
 ## Provenance — read this first
 
-This follows a public cyber-range template, and links in the README still point
-at the upstream author's repos (`joshmadakor0/threat-hunting-scenario-tor`),
-including the scenario-creation link that should point at this repo's own
-`threat-hunting-scenario-tor-event-creation.md`. Fixing those links is the
-obvious first change if this is ever revisited.
+This is a fork of Josh Madakor's Cyber Range report
+(`joshmadakor0/threat-hunting-scenario-tor`), kept unmodified for reference. The
+README's first line says so, and its Scenario Creation link points at this
+repo's own `threat-hunting-scenario-tor-event-creation.md`. The content is his;
+do not present it as original work.
 
-Note the overlap: `../Threat_Hunting_Projects/` contains
-`Threat_Hunt_Scenario_TOR.md` and `Threat_Hunt_Unauthorized_TOR_Use.md`, covering
-the same ground. If both are kept, one should say which is canonical.
+`../Threat_Hunting_Projects/` keeps only the scenario-creation guide
+(`Threat_Hunt_Unauthorized_TOR_Use.md`), under his name and labelled
+course-derived. Its copy of the report (`Threat_Hunt_Scenario_TOR.md`) was
+removed on 2026-10-18 in favour of a link to his original.
 
 ## Content
 
